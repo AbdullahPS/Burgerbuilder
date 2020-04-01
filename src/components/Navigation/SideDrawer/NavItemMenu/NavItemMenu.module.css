@@ -1,0 +1,12 @@
+.NavItemMenu{
+    height: 50px;
+width: 50px;
+}
+.NavItemMenu img {
+height: 100%;
+}
+@media(min-width:500px){
+    .NavItemMenu{
+visibility: hidden;       
+    }
+}
